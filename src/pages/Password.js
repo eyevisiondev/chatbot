@@ -97,7 +97,7 @@ export default class Password extends React.Component {
       loading: true
     });
 
-    const response = await eye.post("http://35.198.45.253/api/reset/password", {
+    const response = await eye.post("http://35.199.125.102/api/reset/password", {
       email: this.state.email
     });
 

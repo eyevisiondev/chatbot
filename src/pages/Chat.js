@@ -568,7 +568,7 @@ export default class Chat extends Component {
   async websocket(token, movie) {
     const eye = create({});
 
-    const response = await eye.get("http://35.198.45.253:8000/send", {
+    const response = await eye.get("http://35.199.125.102:8000/send", {
       token: token,
       movie: movie
     });
@@ -1090,7 +1090,7 @@ export default class Chat extends Component {
     });
 
     //console.warn(this.state.cpf);
-    const response = await eye.post("http://35.198.45.253/api/clients/store", {
+    const response = await eye.post("http://35.199.125.102/api/clients/store", {
       cpf: this.state.cpf,
       name: this.state.name.toUpperCase(),
       phone: this.state.phone,
@@ -1109,7 +1109,7 @@ export default class Chat extends Component {
     const eye = create({});
 
     const response = await eye.post(
-      "http://35.198.45.253/api/consultaClienteCondor",
+      "http://35.199.125.102/api/consultaClienteCondor",
       {
         cpf: this.state.cpf,
         api_token: token

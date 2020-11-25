@@ -132,7 +132,7 @@ export default class Login extends React.Component {
       loading: true
     });
 
-    const response = await eye.post("http://35.198.45.253/api/checkToken", {
+    const response = await eye.post("http://35.199.125.102/api/checkToken", {
       api_token: token,
       device_id: this.state.device_id
     });
@@ -153,7 +153,7 @@ export default class Login extends React.Component {
       loading: true
     });
 
-    const response = await eye.post("http://35.198.45.253/api/loginAPI", {
+    const response = await eye.post("http://35.199.125.102/api/loginAPI", {
       email: this.state.email,
       password: this.state.password,
       mobile: "true",
