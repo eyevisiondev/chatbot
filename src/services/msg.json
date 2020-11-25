@@ -1,0 +1,69 @@
+[
+  {
+    "msg": "Olá, tudo bem? Eu tenho uma novidade para apresentar pra você. Poderia digitar o seu CPF, por favor?",
+    "audio": "ola_tudo_bem.mp3",
+    "action": "pause"
+  },
+  {
+    "msg": "Seja bem-vindGENERO, NAME",
+    "audio": "watson",
+    "action": "watson"
+  },
+  {
+    "msg": "Como faz um tempinho que você não vem por aqui, eu gostaria de te apresentar um novo produto.",
+    "audio": "como_faz_um_tempinho.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Que bom ver você por aqui novamente! E como você é cliente bem frequente, eu gostaria de te apresentar um novo produto.",
+    "audio": "que_bom_ver_voce_aqui_novamente.mp3",
+    "action": "next"
+  },
+
+  {
+    "msg": "Esse é o novo Ninho Forti+, da Nestlé. Ninho você já conhece, ele é o mais confiável para a alimentação infantil. Mas o novo Ninho Forti+ está ainda mais nutritivo, porque ele é enriquecido com vitaminas, minerais e fibras, que ajudam a nutrir as crianças. E você sabe, né?",
+    "audio": "produto.mp3",
+    "action": "next"
+  },
+
+  {
+    "msg": "Uma alimentação saudável é o primeiro passo para que as crianças possam desenvolver todo seu potencial e expressar sua individualidade.",
+    "audio": "uma_alimentacao_saudavel.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Então aproveite e leve esta novidade e recomende para quem acredita em uma alimentação ainda mais nutritiva para seus filhos.",
+    "audio": "entao_aproveite_e_leve.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Gostaria de deixar o seu e-mail para receber nossas novidades e promoções?",
+    "audio": "gostaria_de_deixar_seu_email.mp3",
+    "action": "buttons"
+  },
+  {
+    "msg": "Muito Obrigada, é um prazer ter você como cliente. Boas Compras.",
+    "audio": "muito_obrigada_e_um_prazer.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "E não esqueça de digitar seu CPF no caixa para aproveitar os descontos que o Clube Condor e a Nestlé têm para te oferecer.",
+    "audio": "e_nao_esqueca_de_digitar.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Ah! Também dá para baixar o aplicativo no seu celular, para ter acesso a promoções exclusivas!",
+    "audio": "ah_tambem_da_para_baixar.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Muito obrigada pela sua atenção.",
+    "audio": "muito_obrigada_pela_sua_atencao.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Até mais NAME!",
+    "audio": "watson",
+    "action": "watson"
+  }
+]

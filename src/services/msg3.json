@@ -1,0 +1,68 @@
+[
+  {
+    "msg": "Que pena, eu gostaria muito de ter você no nosso Clube.",
+    "audio": "que_pena.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Mas mesmo assim eu gostaria de te apresentar um novo produto.",
+    "audio": "mas_mesmo_assim.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Esse é o novo Ninho Forti+, da Nestlé. Ninho você já conhece, ele é o mais confiável para a alimentação infantil. Mas o novo Ninho Forti+ está ainda mais nutritivo, porque ele é enriquecido com vitaminas, minerais e fibras, que ajudam a nutrir as crianças. E você sabe, né?",
+    "audio": "produto.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Uma alimentação saudável é o primeiro passo para que as crianças possam desenvolver todo seu potencial e expressar sua individualidade.",
+    "audio": "uma_alimentacao_saudavel.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Então aproveite e leve esta novidade e recomende para quem acredita em uma alimentação ainda mais nutritiva para seus filhos.",
+    "audio": "entao_aproveite_e_leve.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Gostaria de deixar o seu e-mail para receber nossas novidades e promoções?",
+    "audio": "gostaria_de_deixar_seu_email.mp3",
+    "action": "buttons"
+  },
+  {
+    "msg": "Que bom, digite o seu e-mail:",
+    "audio": "que_bom_digite_o_seu_email.mp3",
+    "action": "pause"
+  },
+  {
+    "msg": "Por favor, digite o seu nome:",
+    "audio": "digite_o_seu_nome.mp3",
+    "action": "pause"
+  },
+  {
+    "msg": "Muito Obrigada, é um prazer ter você como cliente. Boas Compras.",
+    "audio": "muito_obrigada_e_um_prazer.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "E quando você puder, se cadastre para aproveitar os descontos que o Clube Condor e a Nestlé têm para te oferecer. Basta pedir no caixa ou acessar o site clubecondor.com.br",
+    "audio": "e_quando_voce_puder.mp3",
+    "action": "next"
+  },
+
+  {
+    "msg": "Ah! Também dá para baixar o aplicativo no seu celular, para ter acesso a promoções exclusivas!",
+    "audio": "ah_tambem_da_para_baixar.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Muito obrigada pela sua atenção.",
+    "audio": "muito_obrigada_pela_sua_atencao.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Até mais!",
+    "audio": "ate_mais.mp3",
+    "action": "end"
+  }
+]

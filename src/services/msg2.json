@@ -1,0 +1,77 @@
+[
+  {
+    "msg": "Notamos que você ainda não aproveita os benefícios do Clube Condor.",
+    "audio": "notamos.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Gostaria de cadastrar no Clube Condor e começar a aproveitar os benefícios hoje mesmo?",
+    "audio": "gostaria_de_cadastrar.mp3",
+    "action": "buttons"
+  },
+  {
+    "msg": "Que bom, digite o seu nome:",
+    "audio": "digite_o_seu_nome.mp3",
+    "action": "pause"
+  },
+  {
+    "msg": "Que bom, digite o seu e-mail:",
+    "audio": "que_bom_digite_o_seu_email.mp3",
+    "action": "pause"
+  },
+  {
+    "msg": "Agora, digite o seu telefone, por favor.",
+    "audio": "agora_digite_o_seu_telefone.mp3",
+    "action": "pause"
+  },
+  {
+    "msg": "Muito bem! Você receberá em breve um e-mail com as informações para você completar o seu cadastro. É muito importante que você complete seu cadastro em até 60 dias para poder continuar aproveitando os benefícios do nosso Clube. Dessa forma, você poderá receber promoções de acordo com o seu perfil e interesse.",
+    "audio": "muito_bem_voce_recebera.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Agora eu gostaria de te apresentar um novo produto.",
+    "audio": "agora_eu_gostaria.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Esse é o novo Ninho Forti+, da Nestlé. Ninho você já conhece, ele é o mais confiável para a alimentação infantil. Mas o novo Ninho Forti+ está ainda mais nutritivo, porque ele é enriquecido com vitaminas, minerais e fibras, que ajudam a nutrir as crianças. E você sabe, né?",
+    "audio": "produto.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Uma alimentação saudável é o primeiro passo para que as crianças possam desenvolver todo seu potencial e expressar sua individualidade.",
+    "audio": "uma_alimentacao_saudavel.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Então aproveite e leve esta novidade e recomende para quem acredita em uma alimentação ainda mais nutritiva para seus filhos.",
+    "audio": "entao_aproveite_e_leve.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Gostaria de deixar o seu e-mail para receber nossas novidades e promoções?",
+    "audio": "gostaria_de_deixar_seu_email.mp3",
+    "action": "buttons"
+  },
+  {
+    "msg": "Muito Obrigada, é um prazer ter você como cliente. Boas Compras.",
+    "audio": "muito_obrigada_e_um_prazer.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "E não esqueça de digitar seu CPF no caixa para aproveitar os descontos que o Clube Condor e a Nestlé têm para te oferecer.",
+    "audio": "e_nao_esqueca_de_digitar.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Muito obrigada pela sua atenção.",
+    "audio": "muito_obrigada_pela_sua_atencao.mp3",
+    "action": "next"
+  },
+  {
+    "msg": "Até mais!",
+    "audio": "ate_mais.mp3",
+    "action": "end"
+  }
+]
